@@ -1,7 +1,7 @@
 # SwiftyMonkey
 Swift version of The Monkey Programming Language
 
-https://interpreterbook.com/#the-monkey-programming-language
+https://monkeylang.org
 
 ## Run
 ```
